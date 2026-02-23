@@ -1,0 +1,13 @@
+version: 1
+type: individual
+github:
+  id: 26871028
+  username_at_sign: sparrowhe
+email:
+  commit_emails:
+    - sparrowhe@gmail.com
+cla:
+  document_version: "1.0.0"
+  document_sha256: "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  signed_at: "2026-02-23T10:00:00Z"
+irrevocable: true
